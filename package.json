@@ -1,0 +1,15 @@
+{
+  "name": "youtube-clone",
+  "version": "1.0.0",
+  "description": "this project is similar as youtube but designing my own way",
+  "keywords": [
+    "javascript"
+  ],
+  "license": "ISC",
+  "author": "Inam-ullah",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
